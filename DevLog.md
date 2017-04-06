@@ -2,7 +2,8 @@ Nombre de grupo: Empire
 
 Integrantes: Marcelo Arriagada S.
              Luis Guzman B.
-             Christian Matzner 
+             Christian Matzner S.
+             Sebastian Zambrano R.
              
 Requerimiento general: 
                      Seguir el progreso y la actividad de los estudiantes, en grupos o individualmente, en el tiempo.
