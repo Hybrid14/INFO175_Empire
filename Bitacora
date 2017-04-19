@@ -15,14 +15,14 @@ Dia_13/Abril: Requerimientos general: Seguir el progreso y la actividad de los e
                         persona y el CoverFlow que solo cumplían una funcionalidad estética.
               
               Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, base de datos, servidor Tomcat y 
-              eclipse, se instalaron de forma exitosa.
+              eclipse, se instalaron de forma exitosa en dos computadores de los 4 del grupo.
               
               En un principio, para verificar el correcto funcionamiento de los programas en conjunto, se utilizó un programa de ejemplo
               (propuesto por el profesor). Éste no funcionó, debido a que se estaban obteniendo los datos de manera dinamica. Además de eso,
               había cierta incompatibilidad con las versiones del servidor Tomcat y eclipse.
               
               Al finalizar la clase, se pudo concretar de forma exitosa, el funcionamiento total del ejemplo(correcto funcionamiento de los
-              distintos sistemas/plataforma de desarrolo en conjunto), utilizando los datos de manera estatica en el JSON.
+              distintos sistemas/plataforma de desarrolo en conjunto), utilizando los datos de manera estatica en el JSON
               
               
               
