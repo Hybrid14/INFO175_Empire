@@ -28,7 +28,7 @@ Dia_20/Abril: Hoy se presentó el primer prototipo de la visualización de nuest
               problemáticas de la visualización: los gráficos comparativos; dejando de lado la estética y algunos campos en segundo plano(filtros).
               
               La caracteristica primordial para la visualizacion de las gráficas, es que sean dinámicos; desplegando información dependiendo de 
-              la información que se quieran obtener(mouseover, hay que agregar mas caracteristicas).
+              la información que se quiera obtener(mouseover, grafica de peacks e informacion adicional).
               Para esto se utilizaron herramientas con C3.js. Las transiciones funcionaban, solo que hay ciertos parametros visuales no deseados 
               que aparecieron en nuestra interfaz. Es por esto, que durante la clase, se trato de darle solución a dicha problemática. No teniendo
               buenos resultados.
