@@ -1,4 +1,4 @@
-Nombre de grupo: Empire
+<h1>Nombre</h1> de grupo: Empire
 
 Integrantes: Marcelo Arriagada S.
              Luis Guzman B.
