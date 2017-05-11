@@ -1,10 +1,10 @@
 <h1>Nombre de grupo:</h1> Empire
 
 <h1>Integrantes:</h1> 
-             * Marcelo Arriagada S.
-             +Luis Guzman B.
-             +Christian Matzner S.
-             +Sebastian Zambrano R.
+             ⋅⋅*Marcelo Arriagada S.
+             ⋅⋅*Luis Guzman B.
+             ⋅⋅*Christian Matzner S.
+             ⋅⋅*Sebastian Zambrano R.
              
 <h1>Requerimiento general:</h1> 
                      Seguir el progreso y la actividad de los estudiantes, en grupos o individualmente, en el tiempo.
