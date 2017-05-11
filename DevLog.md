@@ -1,7 +1,7 @@
 <h1>Nombre de grupo:</h1> Empire
 
 <h1>Integrantes:</h1> 
-             *Marcelo Arriagada S.
+             * Marcelo Arriagada S.
              +Luis Guzman B.
              +Christian Matzner S.
              +Sebastian Zambrano R.
