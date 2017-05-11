@@ -1,5 +1,5 @@
 <head>
-<h1>Nombre de grupo:</h1> <STRONG> Empire</STRONG> 
+<h1>Nombre de grupo:</h1> <LI><STRONG> Empire</STRONG> 
 
 <h1>Integrantes:</h1> 
              <LI> Marcelo Arriagada S.
@@ -25,10 +25,12 @@
                     </OL>
                     
 <h1>Retroalimentacion_2:</h1> 
-                    1.- Definir bien los intervalos de tiempo para el eje x (de preferencia mas de un intervalo representativo.
-                    2.- Insertar graficos en vertical para comparar la frecuencia con la que los diferentes grupos ingresan a estudiar, con la
+                    <OL>
+                    <LI>Definir bien los intervalos de tiempo para el eje x (de preferencia mas de un intervalo representativo.
+                    <LI> Insertar graficos en vertical para comparar la frecuencia con la que los diferentes grupos ingresan a estudiar, con la
                     con una sola linea de tiempo que los atraviesa a todos.
-                    3.- agregar mas filtros para la barra de tiempo. 
+                    <LI> agregar mas filtros para la barra de tiempo. 
+                     </OL>
 
                     
 <h1>Dia_13/Abril:</h1> 
@@ -38,13 +40,15 @@
               Historia de usuario modificado 2.0:"Yo como profesor, quiero definir los picks de los estudiantes al momento de realizar
               una actividad, en relación del tiempo, para poder identificar la organización de estudio de los estudiantes".
               Para esto, agregamos los cambios que eran nesesarios desde la ultima retroalimentacion, tales como:
-                   1.- Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal
+                  <OL>
+                   <LI>  Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal
                      a gráficos consecutivos en forma vertical(se mantiene el numero de gráficos, que son tres).
-                   2.- Agregar herramientas de comparación de los distintos grupos.  
-                   3.- Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a 
+                   <LI>  Agregar herramientas de comparación de los distintos grupos.  
+                   <LI>  Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a 
                    todos los grupos.
-                   4.- Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, 
+                   <LI>  Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, 
                       elimindando el buscador por persona y el CoverFlow que solo cumplían una funcionalidad estética.   
+                    </OL>
              Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, 
              base de datos, servidor Tomcat y clipse, se instalaron de forma exitosa en dos computadores de los 
              4 del grupo. 
