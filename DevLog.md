@@ -27,27 +27,23 @@ Retroalimentacion_2:
                     3.- agregar mas filtros para la barra de tiempo. 
 
                     
-Dia_13/Abril: Requerimientos general: Seguir el progreso y la actividad de los estudiantes, en grupos o individualmente, en el tiempo.
-
+Dia_13/Abril: 
+              Requerimientos general: Seguir el progreso y la actividad de los estudiantes, en grupos o individualmente, en el tiempo.
               Historia de usuario 1:"Yo como profesor, quiero definir los picks de cada estudiante al momento de realizar una actividad,
               en relación del tiempo, para poder identificar la organización de estudio del alumnos".
-
               Historia de usuario modificado 2.0:"Yo como profesor, quiero definir los picks de los estudiantes al momento de realizar
               una actividad, en relación del tiempo, para poder identificar la organización de estudio de los estudiantes".
 
               Para esto, agregamos los cambios que eran nesesarios desde la ultima retroalimentacion, tales como:
-                        * Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal
-                        a gráficos consecutivos en forma vertical(se mantiene el numero de gráficos, que son tres).
-                        * Agregar herramientas de comparación de los distintos grupos(HAY QUE DETALLARLOS).
-                        * Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a todos los grupos.
-                        * Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, elimindando el buscador por
-                        persona y el CoverFlow que solo cumplían una funcionalidad estética.
-              
-              Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, base de datos, servidor Tomcat y 
-              eclipse, se instalaron de forma exitosa en dos computadores de los 4 del grupo.
-              
-              En un principio, para verificar el correcto funcionamiento de los programas en conjunto, se utilizó un programa de ejemplo
-              (propuesto por el profesor). Éste no funcionó, debido a que se estaban obteniendo los datos de manera dinamica. Además de               eso, había cierta incompatibilidad con las versiones del servidor Tomcat y eclipse.
+                   - Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal
+                     a gráficos consecutivos en forma vertical(se mantiene el numero de gráficos, que son tres).
+                   - Agregar herramientas de comparación de los distintos grupos.  
+                   - Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a todos los grupos.
+                   - Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, elimindando el buscador por
+                     persona y el CoverFlow que solo cumplían una funcionalidad estética.   
+                     
+              Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, base de datos, servidor                         Tomcat y eclipse, se instalaron de forma exitosa en dos computadores de los 4 del grupo.
+              En un principio, para verificar el correcto funcionamiento de los programas en conjunto, se utilizó un programa de                       ejemplo. Éste no funcionó, debido a que se estaban obteniendo los datos de manera dinamica. Además de eso, había cierta                 incompatibilidad con las versiones del servidor Tomcat y eclipse.
               Al finalizar la clase, se pudo concretar de forma exitosa, el funcionamiento total del ejemplo(correcto funcionamiento de               los distintos sistemas/plataforma de desarrolo en conjunto), utilizando los datos de manera estatica en el JSON.
               
 Dia_20/Abril: Hoy se presentó el primer prototipo de la visualización de nuestro proyecto. Nos enfocamos principalmente en las dos                      grandes problemáticas de la visualización: los gráficos comparativos; dejando de lado la estética y algunos campos en                   segundo plano(filtros).
