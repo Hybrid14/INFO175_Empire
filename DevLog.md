@@ -49,7 +49,7 @@
                    <LI>  Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, 
                       elimindando el buscador por persona y el CoverFlow que solo cumplían una funcionalidad estética. 
              
-             Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, 
+             <P>Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, 
              base de datos, servidor Tomcat y clipse, se instalaron de forma exitosa en dos computadores de los 
              4 del grupo. 
              En un principio, para verificar el correcto funcionamiento de los programas en conjunto, 
@@ -58,7 +58,7 @@
              y eclipse, por lo que tuvimos que ver porque no estaba funcionando y arreglarlo. 
              Al finalizar la clase, se pudo concretar de forma exitosa, el funcionamiento total del ejemplo
              (correcto funcionamiento de los distintos sistemas/plataforma de desarrolo en conjunto), 
-             utilizando los datos de manera estatica en el JSON.
+             utilizando los datos de manera estatica en el JSON.</P>
               
 <h1>Dia_20/Abril:</h1> Hoy se presentó el primer prototipo de la visualización de nuestro proyecto. Nos enfocamos principalmente en las dos                      grandes problemáticas de la visualización: los gráficos comparativos; dejando de lado la estética y algunos campos en                   segundo plano(filtros).
               La caracteristica primordial para la visualizacion de las gráficas, es que sean dinámicos; desplegando información                        dependiendo de la información que se quiera obtener(mouseover, grafica de peacks e informacion adicional).
