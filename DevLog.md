@@ -41,10 +41,8 @@
               Historia de usuario modificado 2.0:"Yo como profesor, quiero definir los picks de los estudiantes al momento de realizar
               una actividad, en relación del tiempo, para poder identificar la organización de estudio de los estudiantes".
               Para esto, agregamos los cambios que eran nesesarios desde la ultima retroalimentacion, tales como:
-                   <LI>Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal a gráficos consecutivos en forma vertical(se mantiene el numero de gráficos, que son tres).<LI>Agregar herramientas de comparación de los distintos grupos. </LI><LI>Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a todos los grupos.</LI><LI>Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, elimindando el buscador por persona y el CoverFlow que solo cumplían una funcionalidad estética.</LI>
-                    </OL> 
-             
-             <P>Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, 
+                          <LI>Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal a gráficos consecutivos en forma vertical(se mantiene el numero de gráficos, que son tres).<LI>Agregar herramientas de comparación de los distintos grupos. </LI><LI>Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a todos los grupos.</LI><LI>Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, elimindando el buscador por persona y el CoverFlow que solo cumplían una funcionalidad estética.</LI>
+                    </OL><P>Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, 
              base de datos, servidor Tomcat y clipse, se instalaron de forma exitosa en dos computadores de los 
              4 del grupo. 
              En un principio, para verificar el correcto funcionamiento de los programas en conjunto, 
