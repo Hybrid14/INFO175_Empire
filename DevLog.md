@@ -33,7 +33,6 @@ Dia_13/Abril:
               en relación del tiempo, para poder identificar la organización de estudio del alumnos".
               Historia de usuario modificado 2.0:"Yo como profesor, quiero definir los picks de los estudiantes al momento de realizar
               una actividad, en relación del tiempo, para poder identificar la organización de estudio de los estudiantes".
-
               Para esto, agregamos los cambios que eran nesesarios desde la ultima retroalimentacion, tales como:
                    1.- Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal
                      a gráficos consecutivos en forma vertical(se mantiene el numero de gráficos, que son tres).
