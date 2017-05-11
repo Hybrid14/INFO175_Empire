@@ -24,7 +24,8 @@ Retroalimentacion_2:
                     1.- Definir bien los intervalos de tiempo para el eje x (de preferencia mas de un intervalo representativo.
                     2.- Insertar graficos en vertical para comparar la frecuencia con la que los diferentes grupos ingresan a estudiar, con la
                     con una sola linea de tiempo que los atraviesa a todos.
-                    3.- agregar mas filtros para la barra de tiempo.
+                    3.- agregar mas filtros para la barra de tiempo. 
+
                     
 <h1>Dia_13/Abril:<\h1> Requerimientos general: Seguir el progreso y la actividad de los estudiantes, en grupos o individualmente, en el tiempo.
 
