@@ -15,12 +15,14 @@
                    en relación del tiempo, para poder identificar la organización de estudio del alumno."
                    
 <h1>Retroalimentación_1:</h1>
-                    <LI1.-> Poder considerar mas filtros a la hora de poder visualizar los resultados de organización entre el alumno y/o el
+                    <OL>
+                    <LI> Poder considerar mas filtros a la hora de poder visualizar los resultados de organización entre el alumno y/o el
                     total del alumnado(cada tópico poder subdividirlo en distintas actividades, por ejemplo:example,questions,etc).
-                    2.- Poder considerar una opción/filtro en donde solo se muestren en la visualizacion de los gráficos,los picks del o                       los estudiante(s).
-                    3.- Cada tópico, tendrá una visualización gráfica considerando tres gráficas: Grupo 1-2, Grupo 3-4 y Grupo 5-6.
-                    4.- Desechar la opción de que se visualice en otra ventana la informacion de un alumno en particular. Asi, se debe 
+                    <LI>Poder considerar una opción/filtro en donde solo se muestren en la visualizacion de los gráficos,los picks del o                       los estudiante(s).
+                    <LI>Cada tópico, tendrá una visualización gráfica considerando tres gráficas: Grupo 1-2, Grupo 3-4 y Grupo 5-6.
+                    <LI> Desechar la opción de que se visualice en otra ventana la informacion de un alumno en particular. Asi, se debe 
                     presentar la informacion del alumno en el gráfico del grupo que corresponde.</LI>
+                    </OL>
                     
 <h1>Retroalimentacion_2:</h1> 
                     1.- Definir bien los intervalos de tiempo para el eje x (de preferencia mas de un intervalo representativo.
