@@ -7,7 +7,7 @@
              ⋅⋅*Luis Guzman B.
              ⋅⋅*Christian Matzner S.
              ⋅⋅*Sebastian Zambrano R.
-              </LI>
+              <\LI>
              
 <h1>Requerimiento general:</h1> 
                      Seguir el progreso y la actividad de los estudiantes, en grupos o individualmente, en el tiempo.
