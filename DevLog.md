@@ -35,11 +35,11 @@ Dia_13/Abril:
               una actividad, en relación del tiempo, para poder identificar la organización de estudio de los estudiantes".
 
               Para esto, agregamos los cambios que eran nesesarios desde la ultima retroalimentacion, tales como:
-                   - Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal
+                   1.- Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal
                      a gráficos consecutivos en forma vertical(se mantiene el numero de gráficos, que son tres).
-                   - Agregar herramientas de comparación de los distintos grupos.  
-                   - Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a todos los grupos.
-                   - Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, elimindando el buscador por
+                   2.- Agregar herramientas de comparación de los distintos grupos.  
+                   3.- Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a todos los grupos.
+                   4.- Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, elimindando el buscador por
                      persona y el CoverFlow que solo cumplían una funcionalidad estética.   
                      
               Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, base de datos, servidor                         Tomcat y eclipse, se instalaron de forma exitosa en dos computadores de los 4 del grupo.
