@@ -42,7 +42,8 @@ Dia_13/Abril:
                    4.- Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, 
                       elimindando el buscador por persona y el CoverFlow que solo cumplían una funcionalidad estética.   
              Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, 
-             base de datos, servidor Tomcat y clipse, se instalaron de forma exitosa en dos computadores de los 4 del grupo. 
+             base de datos, servidor Tomcat y clipse, se instalaron de forma exitosa en dos computadores de los 
+             4 del grupo. 
              En un principio, para verificar el correcto funcionamiento de los programas en conjunto, 
              se utilizó un programa de ejemplo. Éste no funcionó, debido a que se estaban obteniendo los datos de manera 
              dinamica. Además de eso había cierta  incompatibilidad con las versiones del servidor Tomcat y eclipse, 
