@@ -54,8 +54,8 @@
              4 del grupo. 
              En un principio, para verificar el correcto funcionamiento de los programas en conjunto, 
              se utilizó un programa de ejemplo. Éste no funcionó, debido a que se estaban obteniendo los datos de 
-             manera dinamica. Además de eso había cierta  incompatibilidad con las versiones del servidor Tomcat y 
-             eclipse, por lo que tuvimos que ver porque no estaba funcionando y arreglarlo. 
+             manera dinamica. Además de eso había cierta  incompatibilidad con las versiones del servidor Tomcat 
+             y eclipse, por lo que tuvimos que ver porque no estaba funcionando y arreglarlo. 
              Al finalizar la clase, se pudo concretar de forma exitosa, el funcionamiento total del ejemplo
              (correcto funcionamiento de los distintos sistemas/plataforma de desarrolo en conjunto), 
              utilizando los datos de manera estatica en el JSON.
