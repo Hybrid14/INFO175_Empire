@@ -41,9 +41,13 @@ Dia_13/Abril:
                    3.- Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a todos los grupos.
                    4.- Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, elimindando el buscador por
                      persona y el CoverFlow que solo cumplían una funcionalidad estética.   
-             Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, base de datos, servidor Tomcat y                eclipse, se instalaron de forma exitosa en dos computadores de los 4 del grupo. 
-             En un principio, para verificar el correcto funcionamiento de los programas en conjunto, se utilizó un programa de ejemplo.              Éste no funcionó, debido a que se estaban obteniendo los datos de manera dinamica. Además de eso, había cierta                          incompatibilidad con las versiones del servidor Tomcat y eclipse. 
-             Al finalizar la clase, se pudo concretar de forma exitosa, el funcionamiento total del ejemplo(correcto funcionamiento de                 los distintos sistemas/plataforma de desarrolo en conjunto), utilizando los datos de manera estatica en el JSON.
+             Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, 
+             base de datos, servidor Tomcat y clipse, se instalaron de forma exitosa en dos computadores de los 4 del grupo. 
+             En un principio, para verificar el correcto funcionamiento de los programas en conjunto, 
+             se utilizó un programa de ejemplo. Éste no funcionó, debido a que se estaban obteniendo los datos de manera dinamica.                    Además de eso, había cierta  incompatibilidad con las versiones del servidor Tomcat y eclipse. 
+             Al finalizar la clase, se pudo concretar de forma exitosa, el funcionamiento total del ejemplo
+             (correcto funcionamiento de los distintos sistemas/plataforma de desarrolo en conjunto), 
+             utilizando los datos de manera estatica en el JSON.
               
 Dia_20/Abril: Hoy se presentó el primer prototipo de la visualización de nuestro proyecto. Nos enfocamos principalmente en las dos                      grandes problemáticas de la visualización: los gráficos comparativos; dejando de lado la estética y algunos campos en                   segundo plano(filtros).
               La caracteristica primordial para la visualizacion de las gráficas, es que sean dinámicos; desplegando información                        dependiendo de la información que se quiera obtener(mouseover, grafica de peacks e informacion adicional).
