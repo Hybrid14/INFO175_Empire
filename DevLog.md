@@ -47,8 +47,8 @@
                    <LI>  Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a 
                    todos los grupos.
                    <LI>  Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, 
-                      elimindando el buscador por persona y el CoverFlow que solo cumplían una funcionalidad estética.   
-                    </OL>
+                      elimindando el buscador por persona y el CoverFlow que solo cumplían una funcionalidad estética. </OL>
+             
              Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, 
              base de datos, servidor Tomcat y clipse, se instalaron de forma exitosa en dos computadores de los 
              4 del grupo. 
