@@ -11,7 +11,7 @@
                      Seguir el progreso y la actividad de los estudiantes, en grupos o individualmente, en el tiempo.
 
 <h1>Historia de usuario:</h1>
-                    "Yo como profesor, quiero definir los picks de cada estudiante al momento de realizar una actividad
+                    <STRONG>"Yo como profesor, quiero definir los picks de cada estudiante al momento de realizar una actividad
                    en relación del tiempo, para poder identificar la organización de estudio del alumno."
                    
 <h1>Retroalimentación_1:</h1>
