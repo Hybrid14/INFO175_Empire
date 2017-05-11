@@ -2,7 +2,7 @@
 
 <h1>Integrantes:</h1> 
              ⋅⋅*Marcelo Arriagada S.
-             ⋅⋅*Luis Guzman B.
+⋅⋅*Luis Guzman B.
              ⋅⋅*Christian Matzner S.
              ⋅⋅*Sebastian Zambrano R.
              
