@@ -38,7 +38,7 @@ Dia_13/Abril:
                    1.- Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal
                      a gráficos consecutivos en forma vertical(se mantiene el numero de gráficos, que son tres).
                    2.- Agregar herramientas de comparación de los distintos grupos.  
-                   3.- Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a                                                 todos los grupos.
+                   3.- Insertar una pestaña para que compare todos los grupos en un gráfico para contrastar a                                                todos los grupos.
                    4.- Simplificar la interfaz gráfica para que al usuario se le haga mas fácil el uso, 
                       elimindando el buscador por persona y el CoverFlow que solo cumplían una funcionalidad estética.   
              Con respecto a la plataforma de desarrollo en que se va a montar el proyecto, es decir, 
