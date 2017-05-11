@@ -76,12 +76,9 @@ Dia_27/abril: se termino satisfactoriamente el grafico, dejando pendiente solo e
               hacer 4 graficos extra para analizar las actividades en un contexto secundario y eliminar el grafico que se centraba
               en los peacks. Comenzaremos a trabajar en eso para dar paso a la interfaz completa con los filtros y pciones que
               corresponden.
-Dia_3/Mayo:   Hoy nos juntamos para organizarnos en como vamos a trabajar en lo que nos falta por hacer, quedamos en que nos deistribuiuriamos
-              el trabajo de la siguiente manera:
+Dia_3/Mayo:   Hoy nos juntamos para organizarnos en como vamos a trabajar en lo que nos falta por hacer, quedamos en que nos                            deistribuiuriamos el trabajo de la siguiente manera:
               -Marcelo: Se encargara de terminar bien el tema del grafico
               -Sebastian: Se encargara de Base de datos
               -Luis y Christian: Se encargaran de la pagina en si, la interfaz con el usuario
-Dia_4/Mayo:   Hoy tuvimos una reunion con el profesor, en la cual le mostramos el avance de nuestra visualización. En la cual nos dijo que ibamos
-              en buen camino. Ademas nos dijo que teniamos que ponerle nombre a todos los campos de la visualización, lo cual ya lo hicimos y especificamos
-la importancia, el avance, y el nombre de estas. Esto se subio al github con el nombre "PROGRAMACIÓN".
+Dia_4/Mayo:   Hoy tuvimos una reunion con el profesor, en la cual le mostramos el avance de nuestra visualización. En la cual nos dijo                 que ibamos en buen camino. Ademas nos dijo que teniamos que ponerle nombre a todos los campos de la visualización, lo                   cual ya lo  hicimos y especificamos la importancia, el avance, y el nombre de estas. Esto se subio al github con el nombre               "PROGRAMACIÓN".
                     
