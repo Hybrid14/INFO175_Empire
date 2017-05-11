@@ -27,13 +27,13 @@ Retroalimentacion_2:
                     3.- agregar mas filtros para la barra de tiempo. 
 
                     
-<h1>Dia_13/Abril:<\h1> Requerimientos general: Seguir el progreso y la actividad de los estudiantes, en grupos o individualmente, en el tiempo.
+Dia_13/Abril:Requerimientos general: Seguir el progreso y la actividad de los estudiantes, en grupos o individualmente, en el tiempo.
 
               Historia de usuario 1:"Yo como profesor, quiero definir los picks de cada estudiante al momento de realizar una actividad,
               en relación del tiempo, para poder identificar la organización de estudio del alumnos".
 
               Historia de usuario modificado 2.0:"Yo como profesor, quiero definir los picks de los estudiantes al momento de realizar
-              una actividad, en relación del tiempo, para poder identificar la organización de estudio de los estudiantes".(NO SE SI ESTA BIEN)
+              una actividad, en relación del tiempo, para poder identificar la organización de estudio de los estudiantes".
 
               Para esto, agregamos los cambios que eran nesesarios desde la ultima retroalimentacion, tales como:
                         * Cambiar los gráficos que se encontraba de forma consecutivas en direccion horizontal
@@ -61,8 +61,8 @@ Dia_20/Abril: Hoy se presentó el primer prototipo de la visualización de nuest
               Para esto se utilizaron herramientas con C3.js. Las transiciones funcionaban, solo que hay ciertos parametros visuales no deseados 
               que aparecieron en nuestra interfaz. Es por esto, que durante la clase, se trato de darle solución a dicha problemática. No teniendo
               buenos resultados.
-              Para la proxima clase, solo nos debemos enfocar en los 3 gráficos comparativos, del cual, cada uno tendrá la informacion de cada grupo
-              (retroalimentación aportada por el profesor). 
+              Para la proxima clase, solo nos debemos enfocar en los 3 gráficos comparativos, del cual, cada uno tendrá la informacion                  de cada grupo
+  
               
              
 Dia_25/abril: Hoy se trabajo plenamente en la visualizacion de los graficos tratando de eliminar los problemas de visualizacion que tenian
