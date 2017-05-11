@@ -68,8 +68,7 @@ Dia_20/Abril: Hoy se presentó el primer prototipo de la visualización de nuest
 Dia_25/abril: Hoy se trabajo plenamente en la visualizacion de los graficos tratando de eliminar los problemas de visualizacion que tenian
               los graficos y definiendo bien los parametros del eje y, que van a ser las conexiones en un intervalo de tiempo definido
               por el ancho de las lineas que atraviesan a estos que que lo define el usuario.
-              aun no podemos perfeccionar la visualizacion al 100%, por lo que nos tendremos que juntar nuevamente para la persentacion del 
-              27 de abril.
+              aun no podemos perfeccionar la visualizacion al 100%, por lo que nos tendremos que juntar nuevamente para la persentacion               del 27 de abril.
               
 Dia_27/abril: se termino satisfactoriamente el grafico, dejando pendiente solo el trabajo con la flexibilidad y analisis del tiempo
               para poder comparar distintos intervalos de tiempo y ligarlo a la base de datos de los alumnos. Nos recomendaron
