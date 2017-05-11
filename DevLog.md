@@ -1,5 +1,5 @@
 <head>
-<h1>Nombre de grupo:</h1> *Empire*
+<h1>Nombre de grupo:</h1> <STRONG> Empire<\STRONG> 
 
 <h1>Integrantes:</h1> 
              <LI> Marcelo Arriagada S.
