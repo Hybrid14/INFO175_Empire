@@ -55,20 +55,18 @@ public class GetSampleData extends HttpServlet {
 		}
 		
 		// Se inicializa el objeto de conexión a la base de datos
-		//dbInterface = new DBInterface(cm.dbString, cm.dbUser, cm.dbPass);
-		//dbInterface.openConnection(); // abrir la conexión
+		dbInterface = new DBInterface(cm.dbString, cm.dbUser, cm.dbPass);
+		dbInterface.openConnection(); // abrir la conexión
 		
 		// llamada a la función getSampleData que hace la consulta a la base de datos
-		//ArrayList<String[]> data = dbInterface.getSampleData(); 
-		//dbInterface.closeConnection(); // cerrar la conexión
+		ArrayList<String[]> data = dbInterface.getSampleData(); 
+		dbInterface.closeConnection(); // cerrar la conexión
 		
 		// obtener el objeto flujo de salida (para imprimir la respuesta)
 		PrintWriter out = response.getWriter();
 		
 		// escribir la respuesta
-		//out.print(outAsJSON(data));
-		out.println("[{\"userid\":\"yo\",\"applabel\":\"myapp\",\"activitycount\":100}]");
-		//String output =" \{}
+		out.print(outAsJSON(data));
 	}
 
 	/**
@@ -89,7 +87,7 @@ public class GetSampleData extends HttpServlet {
 	private String outAsJSON(ArrayList<String[]> data){
 		String outString = "[";
 		for(String[] row : data){
-			outString += "\n    {\"userid\":\""+row[0]+"\",\"applabel\":\""+row[1]+"\",\"activitycount\":"+row[2]+"},";
+			outString += "\n    {\"date\":\""+row[0]+"\",\"applabel\":\""+row[1]+"\",\"group\":\""+row[2]+"\",\"topicname\":\""+row[3]+"\","+"\"activity_count\":\""+row[4]+"\"},";
 		}
 		outString = outString.substring(0,outString.length()-1);
 		outString += "\n]";
