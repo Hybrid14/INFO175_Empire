@@ -77,8 +77,11 @@
               -Sebastian: Se encargara de Base de datos
               -Luis y Christian: Se encargaran de la pagina en si, la interfaz con el usuario
 <h1>Dia_4/Mayo:</h1>   Hoy tuvimos una reunion con el profesor, en la cual le mostramos el avance de nuestra visualización. En la cual nos dijo                 que ibamos en buen camino. Ademas nos dijo que teniamos que ponerle nombre a todos los campos de la visualización, lo                   cual ya lo  hicimos y especificamos la importancia, el avance, y el nombre de estas. Esto se subio al github con el nombre               "PROGRAMACIÓN".
+
+![alt text](http://i.imgur.com/jOld6wy.jpg)
+
 <h1>Dia_11/Mayo</h1>   Implementado el prototipo del servicio en el repo y actualizada la especificación con el query a la base de datos con los datos que se utilizarán en la visualización. También se ordenaron los directorios del repositorio para separar de forma efectiva los mockups del código y la especificación. Tambien se le puso formato a la bistacora.
-![alt text](http://i.imgur.com/jOld6wy.jpg "Logo Title Text 1")
+
 </head>
                     
                     
