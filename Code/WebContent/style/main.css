@@ -10,3 +10,27 @@ table td  { vertical-align: top; }
 
 #data_table td {padding: 2px 10px 2px 10px; border-top : 1px solid #999999;}
 
+header {
+  padding: 1em;
+  color: white;
+  background-color: black;
+  clear: left;
+  text-align: center;
+}
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+section {
+  float: left;
+  max-width: 160px;
+  margin: 0;
+  padding: 1em;
+}
+article {
+  margin-left: 175px;
+  border-left: 1px solid gray;
+  padding: 5em;
+  overflow: hidden;
+}
