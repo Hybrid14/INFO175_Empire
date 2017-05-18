@@ -82,8 +82,7 @@ El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reun
 <h1>Dia_11/Mayo:</h1>   Implementado el prototipo del servicio en el repositorio y se actualizó la especificación con el query a la base de datos, con los datos que se utilizarán en la visualización. También se ordenaron los directorios del repositorio para separar de forma efectiva los mockups del código y la especificación. Además se le puso formato a la bitácora para que se vea de forma mas clara y ordenada.
 
 <h1>Dia_16/Mayo:</h1> Avanzamos el html, dejando listos los combobox, posiciones de los graficos, el titulo y nombre del programa, se subira todo cuando se corrija un problema con la pagina.
-<h1>Dia_18/Mayo</h1> Se subio el html,tuvimos problemas con una funcion que al compilar sale que no esta definida, al insertar el grafico en el html, a su vez se arreglo la visualizacion de los mockups cambiandolos a imagen en vez del ppt para no tener problemas de visualizacion
-
+<h1>Dia_18/Mayo</h1> Se subio el html,tuvimos problemas con una funcion que al compilar sale que no esta definida, al insertar el grafico en el html, a su vez se arreglo la visualizacion de los mockups cambiandolos a imagen en vez del ppt para tener esto mas ordenado y se vea de forma mas facil
 </head>
                     
                     
