@@ -79,9 +79,9 @@
 <h1>Dia_4/Mayo:</h1>   Hoy tuvimos una reunion con el profesor, en la cual le mostramos el avance de nuestra visualización. En la cual nos dijo                 que ibamos en buen camino. Ademas nos dijo que teniamos que ponerle nombre a todos los campos de la visualización, lo                   cual ya lo  hicimos y especificamos la importancia, el avance, y el nombre de estas. Esto se subio al github con el nombre               "PROGRAMACIÓN".
 El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reunion"
 
-<h1>Dia_11/Mayo</h1>   Implementado el prototipo del servicio en el repositorio y se actualizó la especificación con el query a la base de datos, con los datos que se utilizarán en la visualización. También se ordenaron los directorios del repositorio para separar de forma efectiva los mockups del código y la especificación. Además se le puso formato a la bitácora para que se vea de forma mas clara y ordenada.
+<h1>Dia_11/Mayo:</h1>   Implementado el prototipo del servicio en el repositorio y se actualizó la especificación con el query a la base de datos, con los datos que se utilizarán en la visualización. También se ordenaron los directorios del repositorio para separar de forma efectiva los mockups del código y la especificación. Además se le puso formato a la bitácora para que se vea de forma mas clara y ordenada.
 
-<h1>Dia_16/Mayo</h1> Avanzamos el html, dejando listos los combobox, posiciones de los graficos, el titulo y nombre del programa, se subira todo cuando se corrija un problema con la pagina.
+<h1>Dia_16/Mayo:</h1> Avanzamos el html, dejando listos los combobox, posiciones de los graficos, el titulo y nombre del programa, se subira todo cuando se corrija un problema con la pagina.
 <h1>Dia_18/Mayo</h1> Se subio el html, solo falta insertar el grafico, tambian se actualizaron los mockups subidos como imagenes en vez de ppt.
 
 </head>
