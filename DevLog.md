@@ -77,13 +77,12 @@
               -Sebastian: Se encargara de Base de datos
               -Luis y Christian: Se encargaran de la pagina en si, la interfaz con el usuario
 <h1>Dia_4/Mayo:</h1>   Hoy tuvimos una reunion con el profesor, en la cual le mostramos el avance de nuestra visualización. En la cual nos dijo                 que ibamos en buen camino. Ademas nos dijo que teniamos que ponerle nombre a todos los campos de la visualización, lo                   cual ya lo  hicimos y especificamos la importancia, el avance, y el nombre de estas. Esto se subio al github con el nombre               "PROGRAMACIÓN".
+El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reunion"
 
-![alt text](http://i.imgur.com/jOld6wy.jpg)
+<h1>Dia_11/Mayo:</h1>   Implementado el prototipo del servicio en el repositorio y se actualizó la especificación con el query a la base de datos, con los datos que se utilizarán en la visualización. También se ordenaron los directorios del repositorio para separar de forma efectiva los mockups del código y la especificación. Además se le puso formato a la bitácora para que se vea de forma mas clara y ordenada.
 
-<h1>Dia_11/Mayo</h1>   Implementado el prototipo del servicio en el repositorio y se actualizó la especificación con el query a la base de datos, con los datos que se utilizarán en la visualización. También se ordenaron los directorios del repositorio para separar de forma efectiva los mockups del código y la especificación. Además se le puso formato a la bitácora para que se vea de forma mas clara y ordenada.
-
-<h1>Dia_16/Mayo</h1> Avanzamos el html, dejando listos los combobox, posiciones de los graficos, el titulo y nombre del programa, se subira todo cuando se corrija un problema con la pagina.
-
+<h1>Dia_16/Mayo:</h1> Avanzamos el html, dejando listos los combobox, posiciones de los graficos, el titulo y nombre del programa, se subira todo cuando se corrija un problema con la pagina.
+<h1>Dia_18/Mayo:</h1> Se subio el html,tuvimos problemas con una funcion que al compilar sale que no esta definida, al insertar el grafico en el html, a su vez se arreglo la visualizacion de los mockups cambiandolos a imagen en vez del ppt para tener esto mas ordenado y se vea de forma mas facil. Al final de la clase logramos insertar el grafico investigando en los codigos de ejemplo subidos al principio del semestre
 </head>
                     
                     
