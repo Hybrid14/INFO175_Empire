@@ -82,7 +82,26 @@ El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reun
 <h1>Dia_11/Mayo:</h1>   Implementado el prototipo del servicio en el repositorio y se actualizó la especificación con el query a la base de datos, con los datos que se utilizarán en la visualización. También se ordenaron los directorios del repositorio para separar de forma efectiva los mockups del código y la especificación. Además se le puso formato a la bitácora para que se vea de forma mas clara y ordenada.
 
 <h1>Dia_16/Mayo:</h1> Avanzamos el html, dejando listos los combobox, posiciones de los graficos, el titulo y nombre del programa, se subira todo cuando se corrija un problema con la pagina.
+
 <h1>Dia_18/Mayo:</h1> Se subio el html,tuvimos problemas con una funcion que al compilar sale que no esta definida, al insertar el grafico en el html, a su vez se arreglo la visualizacion de los mockups cambiandolos a imagen en vez del ppt para tener esto mas ordenado y se vea de forma mas facil. Al final de la clase logramos insertar el grafico investigando en los codigos de ejemplo subidos al principio del semestre
+
+<h1>Dia_25/Mayo:</h1> Este dia mas que realizar un aporte al trabajo propiamente tal, se tocaron ciertos puntos, en especìfico, las malas pràcticas que no deben presentarse al momento de trabajar en equipo. Ademas de eso, las cargas acadèmicas jugaron un rol importante para no presentar un avance de nuestro proyecto para este dia. 
+                      Enviamos un correo al profesor, consultando la posibilidad de poder mostrar un avance y el nos agendò para el dia martes 30 de Mayo a las 14 hrs.  
+                      De esta forma, quedamos en juntarnos para el dia 26, 29 y 30 de Mayo.
+                      
+ <h1>Dia_26/Mayo:</h1>      
+ 
+ <h1>Dia_29/Mayo:</h1> 
+ 
+ <h1>Dia_30/Mayo:</h1> Para este dia, se habia acordado en presentar nuestro avance. Nos dirigimos a la oficina y nos encontramos con la sorpresa que el profesor no se encontraba en ella. Esperamos en la sala Llancahue, mientras revisabamos algunos detalles en lo que respecta a la representacion de nuestros datos en el gràfico. Como el jueves se debe entregar la presentaciòn en formato pdf, decimos avanzar en eso.
+                       La estructura que se le dio fue la siguiente:
+                       <OL>
+                        <LI> Avance del proyecto...
+                        <LI>...
+                        <LI> Proyecto terminado
+                       </OL>
+                        
+
 </head>
                     
                     
