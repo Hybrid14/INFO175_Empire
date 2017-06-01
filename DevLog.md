@@ -87,7 +87,7 @@ El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reun
 
 <h1>Dia_25/Mayo:</h1> Este dia mas que realizar un aporte al trabajo propiamente tal, se tocaron ciertos puntos, en especìfico, las malas pràcticas que no deben presentarse al momento de trabajar en equipo. Ademas de eso, las cargas acadèmicas jugaron un rol importante para no presentar un avance de nuestro proyecto para este dia. 
                       Enviamos un correo al profesor, consultando la posibilidad de poder mostrar un avance y el nos agendò para el dia martes 30 de Mayo a las 14 hrs.  
-                      De esta forma, quedamos en juntarnos para el dia 26, 29 y 30 de Mayo.
+                      De esta forma, para poder mostrar un avance positivo/completo, acordamos en juntarnos para el dia 26, 29 y 30 de Mayo.
                       
  <h1>Dia_26/Mayo:</h1>      
  
