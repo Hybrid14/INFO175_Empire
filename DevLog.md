@@ -87,9 +87,9 @@ El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reun
 
 <h1>Dia_25/Mayo:</h1> Este dia mas que realizar un aporte al trabajo propiamente tal, se tocaron ciertos puntos, en especìfico, las malas pràcticas que no deben presentarse al momento de trabajar en equipo. Ademàs de eso, las cargas acadèmicas jugaron un rol importante para no presentar un avance de nuestro proyecto para este dia. Enviamos un correo al profesor, consultando la posibilidad de poder postergar el avance y el nos agendò para el dia martes 30 de Mayo a las 14 hrs. De esta forma, para poder mostrar un avance positivo/completo, acordamos en juntarnos para el dia 26, 29 y 30 de Mayo.
                       
- <h1>Dia_26/Mayo:</h1>      
+ <h1>Dia_26/Mayo:</h1> Hoy nos juntamos a avanzar para prepararnos para la reunion del 30 con el profesor, se avanzo en la posicion del grafico y en los filtros.
  
- <h1>Dia_29/Mayo:</h1> 
+ <h1>Dia_29/Mayo:</h1> Hoy nuevamente juntamos a avanzar para prepararnos para la reunion del 30 con el profesor, se avanzo en el slider, esto nos costo mucho, avanzamos lo que pudimos, pero el c3 nos esta dando muchos problemas para compatibilizar. 
  
  <h1>Dia_30/Mayo:</h1> Para este dia, se habia acordado en presentar nuestro avance. Nos dirigimos a la oficina y nos encontramos con la sorpresa de que el profesor no se encontraba en ella. Esperamos en la sala Llancahue, mientras revisabamos algunos detalles en lo que respecta a la representacion de nuestros datos en el gràfico. Como el jueves se debe entregar la presentaciòn en formato pdf, decimos avanzar en eso.
                        La estructura que se le dio fue la siguiente:                      
