@@ -101,7 +101,7 @@ El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reun
  En terminos generales estan listos los filtros, la leyenda, el grafico y lo que nos falta es el slyder y el zoom dinamico, que al terminar daremos paso a ensamblaro todo. Tambien definimos que significa cada eje para que la informacion sea mas clara
 
                         
-
+<h1>Dia_07/Junio:</h1>: Logramos hacer funcionar el grafico en D3, para dar paso a la presentacion hucha en clases.
 </head>
                     
                     
