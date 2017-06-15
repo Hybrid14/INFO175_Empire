@@ -100,7 +100,7 @@ El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reun
  <h1>Dia_07/Junio:</h1> Nos dimos cuenta que la herramienta C3 hacia que con compliquemos demasiado innesesariamente, por lo que decidimos recurrir a la herramienta D3, que nos simplificara un poco el trabajo. Dejando como tarea siguiente modificar la interfaz grafica que llevabamos hasta ahora. Preparamos la presentacion para el dia jueves mostrando nuestros avances.
  En terminos generales estan listos los filtros, la leyenda, el grafico y lo que nos falta es el slyder y el zoom dinamico, que al terminar daremos paso a ensamblaro todo. Tambien definimos que significa cada eje para que la informacion sea mas clara. Logramos hacer funcionar el grafico en D3, para dar paso a la presentacion hecha en clases.
  La presentacion salio bien, aun faltan arreglar un poco detales, tales como la organizacion del grafrica con el tema de los dias, para que se vean mas claramente los picks.
- <h1>Dia_9/Junio:</h1>: Nos juntamos a ver como i
+ <h1>Dia_9/Junio:</h1> Nos juntamos a ver como 
 </head>
                     
                     
