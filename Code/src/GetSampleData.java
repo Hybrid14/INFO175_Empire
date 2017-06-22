@@ -89,15 +89,15 @@ public class GetSampleData extends HttpServlet {
 		String outString = "[";
 		for(String[] row : data){
 			if (row[2]=="GROUP161" || row[2]=="GROUP162"){
-				group="Individual";
+				grupo="Individual";
 			}
 			else if (row[2]=="GROUP163"||row[2]=="GROUP164"){
-				group="Ind+G";
+				grupo="Ind+G";
 			}
 			else{
-				group="Social";
+				grupo="Social";
 			}
-			outString += "\n    {\"year\":\""+row[0]+"\",\"applabel\":\""+row[1]+"\",\"group\":\""+group+"\",\"topicname\":\""+row[3]+"\","+"\"value\":\""+row[4]+"\"},";
+			outString += "\n    {\"year\":\""+row[0]+"\",\"applabel\":\""+row[1]+"\",\"group\":\""+row[2]+"\",\"topicname\":\""+row[3]+"\","+"\"value\":\""+row[4]+"\"},";
 		}
 		outString = outString.substring(0,outString.length()-1);
 		outString += "\n]";

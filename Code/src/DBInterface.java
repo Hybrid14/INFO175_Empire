@@ -24,8 +24,7 @@ public class DBInterface {
 	
 	public boolean openConnection(){
 		try{
-			
-			Class.forName("org.mariadb.jdbc.Driver");
+			Class.forName("com.mysql.jdbc.Driver").newInstance();
 			
 			conn = DriverManager.getConnection(dbString+"?"+ "user="+dbUser+"&password="+dbPass);
 			if (conn!=null){

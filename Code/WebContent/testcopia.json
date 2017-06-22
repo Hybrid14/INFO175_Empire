@@ -1,0 +1,146 @@
+[
+{
+  "group":"Individual",
+  "applabel":"PARSONS",
+  "year":"2016-04-12",
+  "value":"131"
+},
+{
+  "group":"Individual",
+  "applabel":"QUIZPET",
+  "year":"2016-04-16",
+  "value":"231"
+},
+{
+  "group":"Individual",
+  "applabel":"QUIZPET",
+  "year":"2016-05-20",
+  "value":"191"
+},
+{
+  "group":"Individual",
+  "applabel":"QUIZPET",
+  "year":"2016-05-22",
+  "value":"302"
+},
+{
+  "group":"Individual",
+  "applabel":"PARSONS",
+  "year":"2016-06-22",
+  "value":"171"
+},
+{
+  "group":"Individual",
+  "applabel":"PARSONS",
+  "year":"2016-06-24",
+  "value":"121"
+},
+{
+  "group":"Individual",
+  "applabel":"PARSONS",
+  "year":"2016-07-28",
+  "value":"231"
+},
+{
+  "group":"Individual",
+  "applabel":"PARSONS",
+  "year":"2016-07-28",
+  "value":"202"
+},
+{
+  "group":"ind+gauge",
+  "applabel":"QUIZPET",
+  "year":"2016-04-12",
+  "value":"31"
+},
+{
+  "group":"ind+gauge",
+  "applabel":"QUIZPET",
+  "year":"2016-04-16",
+  "value":"331"
+},
+{
+  "group":"ind+gauge",
+  "applabel":"QUIZPET",
+  "year":"2016-05-20",
+  "value":"291"
+},
+{
+  "group":"ind+gauge",
+  "applabel":"QUIZPET",
+  "year":"2016-05-22",
+  "value":"250"
+},
+{
+  "group":"ind+gauge",
+  "applabel":"PARSONS",
+  "year":"2016-06-22",
+  "value":"73"
+},
+{
+  "group":"ind+gauge",
+  "applabel":"PARSONS",
+  "year":"2016-06-24",
+  "value":"151"
+},
+{
+  "group":"ind+gauge",
+  "applabel":"PARSONS",
+  "year":"2016-07-28",
+  "value":"399"
+},
+{
+  "group":"ind+gauge",
+  "applabel":"PARSONS",
+  "year":"2016-07-28",
+  "value":"140"
+},
+{
+  "group":"Social",
+  "applabel":"QUIZPET",
+  "year":"2016-04-12",
+  "value":"11"
+},
+{
+  "group":"Social",
+  "applabel":"QUIZPET",
+  "year":"2016-04-16",
+  "value":"230"
+},
+{
+  "group":"Social",
+  "applabel":"QUIZPET",
+  "year":"2016-05-20",
+  "value":"185"
+},
+{
+  "group":"Social",
+  "applabel":"QUIZPET",
+  "year":"2016-05-22",
+  "value":"310"
+},
+{
+  "group":"Social",
+  "applabel":"PARSONS",
+  "year":"2016-06-22",
+  "value":"146"
+},
+{
+  "group":"Social",
+  "applabel":"PARSONS",
+  "year":"2016-06-24",
+  "value":"130"
+},
+{
+  "group":"Social",
+  "applabel":"PARSONS",
+  "year":"2016-07-28",
+  "value":"195"
+},
+{
+  "group":"Social",
+  "applabel":"PARSONS",
+  "year":"2016-07-28",
+  "value":"810"
+}
+]

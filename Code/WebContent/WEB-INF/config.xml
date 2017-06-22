@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
-	<dbString>jdbc:mysql://localhost:8889/info175_data</dbString>
-	<dbUser>root</dbUser>
-	<dbPass>root</dbPass>
+	<dbString>jdbc:mysql://localhost:3306/info175_data</dbString>
+	<dbUser>qwerty</dbUser>
+	<dbPass>zxcv</dbPass>
 </configuration>
