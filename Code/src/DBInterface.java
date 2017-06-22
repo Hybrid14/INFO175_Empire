@@ -80,7 +80,7 @@ public class DBInterface {
 			String query = "SELECT `applabel`,DATE_FORMAT(FROM_UNIXTIME(`unixtimestamp`), '%Y-%m-%d') AS `date`"
 					+ ",`topicname`,`group`, count(*) as `activity_count`"
 					+ "FROM `activity_traces` WHERE `durationseconds` > 0 "
-					+ "GROUP BY `applabel`,`group`,`topicname`,`date` ORDER BY `group`,`date`;";
+					+ "GROUP BY `applabel`,`group`,`topicname`,`date` ORDER BY `date`,`group`;";
 			rs = stmt.executeQuery(query);
 			
 			// rs contiene una estructura de tipo SET que contiene todas
