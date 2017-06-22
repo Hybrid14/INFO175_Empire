@@ -102,5 +102,6 @@ El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reun
  La presentacion salio bien, aun faltan arreglar un poco detales, tales como la organizacion del grafrica con el tema de los dias, para que se vean mas claramente los picks.
  <h1>Dia_9/Junio:</h1> Nos juntamos a ver como 
 </head>
-                    
+            
+<h1>Dia_22/Junio:</h1>: Se pusieron los botones y se comenzo a hacer el slyder, aparte de hacer modificaciones al codigo con respecto al JSON
                     
