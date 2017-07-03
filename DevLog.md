@@ -104,4 +104,8 @@ El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reun
 </head>
             
 <h1>Dia_22/Junio:</h1>: Se pusieron los botones y se comenzo a hacer el slyder, aparte de hacer modificaciones al codigo con respecto al JSON
+
+<h1>Dia_27/Junio:</h1>: Se solucionaron los problemas que tenia el codigo con la representacion de los datos, mostrando correctamente la informacion con datos reales. Tambien  se le hicieron los ultimos retoques al servicio.
+
+<h1>Dia_03/Julio:</h1>: Se comenzo la presentacion para el dia jueves, se actualizo la especificacion del servicio.
                     
