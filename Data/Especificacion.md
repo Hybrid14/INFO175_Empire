@@ -6,7 +6,7 @@
 		"year": String,
 		"applabel": String,
 		"topicname": String,
-		"value": Int
+		"value": int
 	},
   ...
 ]
