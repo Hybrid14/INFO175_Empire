@@ -18,12 +18,12 @@ path {
 	top:60px;
 	left:10px;
 	overflow: auto;
-	height:490px;
-	width:110px;
+	height:110px;
+	width:100px;
 }
 #legend{
 	width:90px;
-	height:200px;
+	height:100px;
 }
 .legend {
     font-size: 12px;
@@ -50,8 +50,29 @@ input{
 	border:0;
 	color:#fff;
 }
-/*#inds{
-	position:absolute;
-	top:10px;
-	left:10px;
-}*/
+#inds{
+   background: transparent;
+   border: none;
+   font-size: 10px;
+   height: 25px;
+   padding: 5px; /* If you add too much padding here, the options won't show in IE */
+   width: 120px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   background-color: #000;
+   color: #fff;
+}
+#inds2{
+   background: transparent;
+   border: none;
+   font-size: 10px;
+   height: 25px;
+   padding: 5px; /* If you add too much padding here, the options won't show in IE */
+   width: 120px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   background-color: #000;
+   color: #fff;
+}
