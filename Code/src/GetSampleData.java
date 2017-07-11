@@ -1,5 +1,4 @@
 
-
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -85,19 +84,20 @@ public class GetSampleData extends HttpServlet {
 	 * @return
 	 */
 	private String outAsJSON(ArrayList<String[]> data){
-		String grupo;
+		String grupo = null;
 		String outString = "[";
 		for(String[] row : data){
-			if (row[2]=="GROUP161" || row[2]=="GROUP162"){
+			String aux=row[2];
+			if (aux.equals("GROUP161") || aux.equals("GROUP162")){
 				grupo="Individual";
 			}
-			else if (row[2]=="GROUP163"||row[2]=="GROUP164"){
-				grupo="Ind+G";
+			else if (aux.equals("GROUP163") || aux.equals("GROUP164")){
+				grupo="Gauge";
 			}
 			else{
 				grupo="Social";
 			}
-			outString += "\n    {\"year\":\""+row[0]+"\",\"applabel\":\""+row[1]+"\",\"group\":\""+row[2]+"\",\"topicname\":\""+row[3]+"\","+"\"value\":\""+row[4]+"\"},";
+			outString += "\n    {\"year\":\""+row[0]+"\",\"applabel\":\""+row[1]+"\",\"group\":\""+grupo+"\",\"topicname\":\""+row[3]+"\","+"\"value\":\""+row[4]+"\"},";
 		}
 		outString = outString.substring(0,outString.length()-1);
 		outString += "\n]";
