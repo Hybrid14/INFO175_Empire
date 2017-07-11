@@ -1,26 +1,57 @@
 <!DOCTYPE html>
 <html>
-<!-- Comentarios en html son demarcados así -->
-
-<!-- en la seccion meta se especifican datos de la pagina y se "importan" archivos javascript (.js) y de estilo (.css) -->
-
-<head>
-  <meta charset="utf-8" />
-  <title>INFO175 App de Ejemplo</title>
-  
-  <meta name="author"      content="Julio Guerra" />
-  <meta name="description" content="Study" />
-  <meta name="keywords"    content="progress,visualization" />
-  <meta name="robots"      content="index,follow,noarchive" />
-  <!-- Aqui se importan jquery, la hoja de estilos y la aplicación javascript -->
-  <script type="text/javascript" src="script/jquery-1.9.1.js"></script>
-  <link rel="stylesheet" type="text/css" href="style/main.css" />
-  <script type="text/javascript" src="script/vis.js"></script>
-</head>
-
-<body>
-<h1>Ejemplo LOL</h1>
-<div id="working_area"></div>
-
-</body>
+	<head>
+		<meta charset='utf-8'>
+		<title>INFO175 Ejemplo Grafico Linea</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="http://d3js.org/d3.v3.js"></script>
+        <script   src="http://code.jquery.com/jquery-1.10.2.js"   integrity="sha256-it5nQKHTz+34HijZJQkpNBIHsjpV8b6QzMJs9tmOBSo="   crossorigin="anonymous"></script>      
+        <script type="text/javascript" src ="script/testmouseover.js"></script>
+        <link type="text/css" href="style/main.css" rel="stylesheet"/>
+        <link type="text/css" href="style/nuevo.css" rel="stylesheet"/>
+  	</head>
+	<body>
+	    <header>
+    <h1>Visualización de datos</h1>
+    <p>
+      <strong>E</strong>mpire
+    </p>
+    </header>
+    <section>
+      <p>Actividades</p>
+      <select id="inds">
+		<option value="QUIZPET" selected="selected">QUIZPET</option>
+		<option value="PARSONS">PARSONS</option>
+		<option value="ANIMATED_EXAMPLE">ANIMATED_EXAMPLE</option>
+		<option value="MASTERY_GRIDS">MASTERY_GRIDS</option>
+		<option value="WEBEX">WEBEX</option>
+</select>
+		<p>Tópicos</p>
+<select id="inds2">
+		<option value="variables" selected="selected">variables</option>
+		<option value="output_formatting">output_formatting</option>
+		<option value="Comparison">Comparison</option>
+		<option value="dictionary">dictionary</option>
+		<option value="exceptions">exceptions</option>
+		<option value="file_handling">file_handling</option>
+		<option value="Functions">Functions</option>
+		<option value="if_statements">if_statements</option>
+		<option value="Lists">Lists</option>
+		<option value="logical_operators">logical_operators</option>
+		<option value="loops">loops</option>
+		<option value="strings">strings</option>
+		<option value="classes_objects">classes_objects</option>
+		<option value="values_references">values_references</option>
+</select>
+      <div id="legendContainer" class="legendContainer">
+      <svg id="legend"></svg>
+      </div>
+    </section>
+    <article>
+    <svg id="chart" 
+    viewBox="0 0 915 400"
+    perserveAspectRatio="xMinYMid">
+    </svg>
+    </article>
+	</body>
 </html>
