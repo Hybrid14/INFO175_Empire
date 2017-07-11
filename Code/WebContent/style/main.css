@@ -31,6 +31,5 @@ section {
 article {
   margin-left: 80px;
   border-left: 1px solid gray;
-  padding: 5em;
-  overflow: hidden;
+  overflow: auto;
 }
