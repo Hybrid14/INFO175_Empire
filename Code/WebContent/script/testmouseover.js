@@ -350,31 +350,6 @@ function updateGraph(data) {
 	  });
 };
 
-function clearAll(){
-	d3.selectAll(".line")
-	.transition().duration(100)
-	.attr("d", function(d){
-		return null;
-	});
-	d3.select("#legend").selectAll("rect")
-	.transition().duration(100)
-	.attr("fill", "#ccc");
-};
-
-function showAll(){
-	d3.selectAll(".line")
-	.transition().duration(100)
-	.attr("d", function(d){
-		return line(d.values);
-	});
-	d3.select("#legend").selectAll("rect")
-	.attr("fill",function(d) {
-		if (d.active == true){
-			return color(d.key);
-		}
-	})
-};
-}
 $(window).ready(function() {
     loadData(); // llama a la función loadData más arriba
     
