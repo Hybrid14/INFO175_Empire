@@ -107,4 +107,6 @@ El mockup hecho con el se subio a la carpeta final con el nombre de "Mockup_reun
 <h1>Dia_27/Junio:</h1>: Se solucionaron los problemas que tenia el codigo con la representacion de los datos, mostrando correctamente la informacion con datos reales. Tambien  se le hicieron los ultimos retoques al servicio.
 
 <h1>Dia_03/Julio:</h1>: Se comenzo la presentacion para el dia jueves, se actualizo la especificacion del servicio.
+
+<h1>Dia_06/Julio:</h1>:La presentacion del pryecto fue un exito, a los clientes les gusto la funionabilidad del software y la facilidad de usar el mismo, con esto damos por concluida satisfactoriamente la contruccion de nuestro software.
                     
